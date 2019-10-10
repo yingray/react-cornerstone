@@ -27,5 +27,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "cornerstone-core": "^2.3.0",
+    "cornerstone-math": "^0.1.8",
+    "cornerstone-tools": "^4.5.2",
+    "cornerstone-web-image-loader": "^2.1.1"
   }
 }
